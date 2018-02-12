@@ -9,8 +9,6 @@ from src.classification.classification_svm_strategy \
     import ClassificationSvmStrategy
 from src.load_data.load_data_tensorflow_strategy \
     import LoadDataTensorflowStrategy
-from src.classification.classification_cnn_strategy \
-    import ClassificationCnnStrategy
 from src.classification.classification_dnn_strategy \
     import ClassificationDnnStrategy
 
